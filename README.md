@@ -1,5 +1,5 @@
-# LEGO Evolution Dashboard, done in collaboration with Daniele Lepre @dlepre01
-
+# LEGO Evolution Dashboard
+### Done in collaboration with Daniele Lepre @dlepre01
 <img src="https://github.com/dlepre01/LEGO-Evolution-Dashboard/blob/main/Front%20of%20the%20box.png?raw=tru" width="500"/>
 
 
